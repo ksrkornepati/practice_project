@@ -6,7 +6,7 @@ data_li = data.split()
 
 result = []
 
-"""
+
 
 for i in data_li:
     if ((i.startswith('s') or i.startswith('S')) and (i.endswith('a') or i.endswith('A')) and (len(i)==4)):
@@ -16,7 +16,7 @@ print(result)
 result_name = result[0]
 print(result_name)
 
-"""
+
 
 ol = []
 
